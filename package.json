@@ -1,0 +1,10 @@
+{
+  "name": "r-a-seed",
+  "private": true,
+  "version": "0.3.0",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}

@@ -1,1 +1,2 @@
-# r-a-seed-1.2.x
+# r-a-seed
+基于angular、require、ui-router种子项目
